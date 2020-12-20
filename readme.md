@@ -22,3 +22,5 @@ $ git remote -v
 origin  git@github.com:Michael1117/vue3_project.git (fetch)
 origin  git@github.com:Michael1117/vue3_project.git (push)
 ```
+
+ssh-keygen -t rsa -C "1322720377@qq.com"
