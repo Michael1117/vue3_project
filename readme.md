@@ -47,3 +47,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDoOe4pgCfHZHYxWyzNXeXKQ38cHt4HzJ8Wqd1oH+Ho
 ## 将id_rsa.pub中的数据放入github中
 
 git pull origin dev --allow-unrelated-histories
+
+
+## git提交代码每次都要输入密码的解决方法
+
+```
+git config --global credential.helper store
+```
