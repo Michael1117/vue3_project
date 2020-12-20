@@ -22,6 +22,7 @@ $ git remote -v
 origin  git@github.com:Michael1117/vue3_project.git (fetch)
 origin  git@github.com:Michael1117/vue3_project.git (push)
 ```
+<<<<<<< HEAD
 ```
 ssh-keygen -t rsa -C "1322720377@qq.com"
 ```
@@ -47,3 +48,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDoOe4pgCfHZHYxWyzNXeXKQ38cHt4HzJ8Wqd1oH+Ho
 ## 将id_rsa.pub中的数据放入github中
 
 git pull origin dev --allow-unrelated-histories
+=======
+
+ssh-keygen -t rsa -C "1322720377@qq.com"
+>>>>>>> bfb64284493098dd5b0ed3872b81494ccd7b7281
